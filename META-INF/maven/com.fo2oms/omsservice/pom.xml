@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.6</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
@@ -28,7 +28,7 @@
                 <fix.version>2.3.0</fix.version>
 		<start-class>com.oms.OMSApplication</start-class>
 		<swagger.version>3.0.0</swagger.version>
-		<swagger-annotations.version>1.6.6</swagger-annotations.version>
+		<swagger-annotations.version>1.6.9</swagger-annotations.version>
 		<swagger-models.version>1.6.6</swagger-models.version>
 	</properties>
 	<dependencies>
